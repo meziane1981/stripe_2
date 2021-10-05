@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
   <head>
     <title>Subscribe to a cool new product</title>
@@ -28,4 +28,4 @@
       </form>
     </section>
   </body>
-</html>
+</html> -->
